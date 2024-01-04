@@ -14,21 +14,21 @@ Birthday **5/10/2008**
 ---
 
 
-Hight:6 foot
+Height:6 foot
 
-Intrest:
+Interest:
 
 1. Baseball
 2. Video games
-3. techology
+3. Technology
 
-Scheldule:
+Schedule:
 
 * Spanish
 * PE
 * Chem
 * Math
 * SEP
-* global history
+* Global history
 * Lunch
 * English
